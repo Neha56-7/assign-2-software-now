@@ -1,1 +1,1 @@
-Hello world! This is a sample text file used to text the encryption and decryption program.
+Hello World! This is a sample text file used to test the encryption and decryption program. It contains both LOWERCASE and UPPERCASE letters, as well as numbers like 12345 and special characters such as !@#$%. The purpose is to ensure that all rules are correctly applied and that non-alphabetic characters remain unchanged.
