@@ -47,7 +47,7 @@ def tokenize(expr):
             i += 1
             continue
 
-        raise ValueError("Invalid token")
+       raise ValueError("Invalid token")
 
     tokens.append(("END", None))
     return tokens
